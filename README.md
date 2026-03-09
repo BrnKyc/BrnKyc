@@ -16,3 +16,8 @@ PostgreSQL, MySQL, OracleSQL
 This project is a desktop application developed in Java using JavaFX that compares different manufacturing technologies based on their production costs.
 The application allows users to enter parameters such as processing time, setup time, labor costs, material consumption, material price, and tool costs for up to three different technologies. Based on these inputs, the program calculates the total production costs depending on the number of produced units.
 The results are visualized in an interactive line chart, enabling users to easily compare how costs change with increasing production quantities.
+
+🕵️ **Detective Adventure Game – World of Zuul**
+Interactive detective adventure game developed in Java with JavaFX.
+Players explore different locations, interact with objects, and solve tasks while navigating through the game world. The game includes an inventory system that allows players to collect and manage items needed to progress in the story.
+This project demonstrates concepts such as object-oriented design, GUI development with JavaFX, scene management, and basic game logic implementation.
