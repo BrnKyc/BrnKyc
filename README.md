@@ -1,8 +1,9 @@
+Hey!
 I am Baran, software developer and computer science student based in Germany
 
 🛠 Technologies & Tools
 Java, SpringBoot, Python, Kotlin 
-HTML, CSS,
+HTML, CSS
 PostgreSQL, MySQL, OracleSQL 
 
 🚀 Projects 
