@@ -10,3 +10,9 @@ PostgreSQL, MySQL, OracleSQL
 🚀 **Projects** 
 
 🏋️ **Fitness App**: The goal of the app is to help users track their physical activity and organize their workouts in a structured way. Users can register and enter personal information such as age, height, and weight. Based on this data, the app calculates the BMI and provides basic fitness recommendations. The application allows users to create weekly workout plans, add exercises, and mark them as completed. It also provides a weekly evaluation that shows which exercises were completed and how well the user followed their training plan. Additionally, the app includes an information page based on WHO guidelines.
+
+**Technology Comparison Application**
+
+This project is a desktop application developed in Java using JavaFX that compares different manufacturing technologies based on their production costs.
+The application allows users to enter parameters such as processing time, setup time, labor costs, material consumption, material price, and tool costs for up to three different technologies. Based on these inputs, the program calculates the total production costs depending on the number of produced units.
+The results are visualized in an interactive line chart, enabling users to easily compare how costs change with increasing production quantities.
