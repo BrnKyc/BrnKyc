@@ -18,6 +18,7 @@ The application allows users to enter parameters such as processing time, setup 
 The results are visualized in an interactive line chart, enabling users to easily compare how costs change with increasing production quantities.
 
 🕵️ **Detective Adventure Game – World of Zuul**
+
 Interactive detective adventure game developed in Java with JavaFX.
 Players explore different locations, interact with objects, and solve tasks while navigating through the game world. The game includes an inventory system that allows players to collect and manage items needed to progress in the story.
 This project demonstrates concepts such as object-oriented design, GUI development with JavaFX, scene management, and basic game logic implementation.
